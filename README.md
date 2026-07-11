@@ -1,6 +1,6 @@
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Dashboard-217346?logo=microsoftexcel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-365-217346?logo=microsoftexcel&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Interactive-blue)
-![Pivot Charts](https://img.shields.io/badge/Pivot%20Charts-Used-orange)
+![Pivot Charts](https://img.shields.io/badge/Pivot%20Charts-Interactive-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 # 📊 Customer Analytics Dashboard
@@ -9,7 +9,7 @@
   <img src="Customer_Analytics_Dashboard.png" alt="Customer Analytics Dashboard" width="100%">
 </p>
 
-An interactive **Business Intelligence Dashboard** built entirely in **Microsoft Excel** to analyze customer demographics, financial performance, regional distribution, and customer behavior. The dashboard combines **Pivot Tables**, **Pivot Charts**, **Slicers**, **Excel formulas**, and professional dashboard design principles to transform raw customer data into actionable business insights.
+An interactive **Business Intelligence Dashboard** built using **Microsoft Excel 365** to analyze customer demographics, financial performance, and regional distribution. The dashboard leverages **Pivot Tables**, **Pivot Charts**, **Slicers**, and **advanced Excel formulas** to transform raw customer data into meaningful business insights through an intuitive and professional dashboard interface.
 
 ---
 
@@ -34,23 +34,20 @@ An interactive **Business Intelligence Dashboard** built entirely in **Microsoft
 
 ---
 
-
-
 # 📌 Project Overview
 
-This project demonstrates how **Microsoft Excel** can be used as a powerful **Business Intelligence** tool to build a fully interactive executive dashboard.
+This project demonstrates how **Microsoft Excel** can be used as a powerful **Business Intelligence** tool to build an interactive dashboard for customer analytics.
 
-The dashboard transforms raw customer data into meaningful business insights using Pivot Tables, Pivot Charts, KPI Cards, Excel formulas, and interactive Slicers while following a clean Microsoft-inspired dashboard layout for improved readability and decision-making.
+The dashboard transforms raw customer data into valuable business insights using **Pivot Tables**, **Pivot Charts**, **Slicers**, **Excel formulas**, and KPI Cards while following a clean Microsoft-inspired dashboard design.
 
 ---
 
 # 🎯 Business Objectives
 
 - Analyze customer distribution across different regions.
-- Monitor important customer KPIs.
-- Analyze customer balances.
+- Monitor key customer performance indicators.
+- Evaluate customer balances.
 - Explore customer demographics.
-- Compare customer segments.
 - Identify high-value customers.
 - Support business decision-making through interactive reporting.
 
@@ -75,7 +72,7 @@ Provides a high-level overview of customer performance using interactive busines
 
 - Executive KPI Cards
 - Interactive Slicers
-- Regional Analysis
+- Customer Distribution by Region
 - Gender Distribution
 - Age Analysis
 - Job Classification Analysis
@@ -86,22 +83,21 @@ Provides a high-level overview of customer performance using interactive busines
 
 # 🎨 Dashboard Design Highlights
 
-The dashboard was designed following modern Microsoft dashboard design principles to provide a clean and professional reporting experience.
+The dashboard follows modern Microsoft dashboard design principles to provide a clean and user-friendly reporting experience.
 
-### Design Improvements
+### Design Features
 
 - Microsoft-inspired dashboard layout
 - Executive KPI Cards
 - Professional color palette
-- Interactive slicers
+- Interactive Slicers
 - Rounded dashboard containers
 - Consistent typography
-- Balanced chart spacing
-- Interactive filtering
-- Business-focused dashboard design
-- Optimized layout for Excel 365
+- Balanced spacing and alignment
 - Clean visual hierarchy
-- Improved dashboard readability
+- Business-focused dashboard design
+- Optimized dashboard layout
+- Improved readability
 
 ---
 
@@ -111,7 +107,7 @@ The dashboard was designed following modern Microsoft dashboard design principle
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Excel Formulas
+- Advanced Excel Formulas
 - Dashboard Design
 - Data Visualization
 - Business Intelligence Reporting
@@ -147,8 +143,8 @@ The dashboard is built using a customer dataset containing:
 - Financial Analysis
 - Customer Demographics
 - Top Customer Analysis
-- Interactive Filtering
-- Dynamic Reporting
+- Dynamic Filtering
+- Interactive Reporting
 
 ---
 
@@ -167,11 +163,11 @@ The dashboard is built using a customer dataset containing:
 
 # 💡 Key Business Insights
 
-- Customer distribution varies significantly across regions.
-- A small number of customers contribute a large portion of the total balance.
-- Customer demographics reveal noticeable differences in age distribution.
-- Job classifications differ considerably in customer volume.
-- Interactive slicers allow stakeholders to explore customer segments instantly.
+- Customer distribution varies across different regions.
+- A relatively small number of customers contribute a significant portion of the total balance.
+- Customer demographics reveal different age distributions.
+- Job classifications vary considerably in customer count.
+- Interactive slicers enable quick exploration of customer segments and business performance.
 
 ---
 
@@ -179,18 +175,17 @@ The dashboard is built using a customer dataset containing:
 
 - Microsoft Excel Dashboard Development
 - Business Intelligence Reporting
-- Dashboard UI Design
+- Dashboard Design
 - KPI Development
-- Dashboard Layout Design
-- Interactive Reporting
 - Data Cleaning
 - Data Analysis
 - Data Visualization
-- Business Storytelling
 - Pivot Tables
 - Pivot Charts
 - Interactive Slicers
-- Excel Formula Development
+- Dashboard Layout Design
+- Business Storytelling
+- Interactive Reporting
 
 ---
 
@@ -203,7 +198,7 @@ This dashboard enables stakeholders to:
 - Explore customer demographics.
 - Compare regional performance.
 - Identify high-value customers.
-- Filter customer segments interactively.
+- Interactively filter customer segments.
 - Support business decisions through data-driven insights.
 
 ---
