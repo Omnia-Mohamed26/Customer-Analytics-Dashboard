@@ -15,7 +15,6 @@ An interactive **Business Intelligence Dashboard** built entirely in **Microsoft
 
 # 📑 Table of Contents
 
-- Dashboard Preview
 - Project Overview
 - Business Objectives
 - Dashboard KPIs
@@ -35,15 +34,7 @@ An interactive **Business Intelligence Dashboard** built entirely in **Microsoft
 
 ---
 
-# 📸 Dashboard Preview
 
-The dashboard provides an executive overview of customer performance through interactive KPI cards, dynamic slicers, and professional visualizations.
-
-<p align="center">
-<img src="Customer_Analytics_Dashboard.png" width="100%">
-</p>
-
----
 
 # 📌 Project Overview
 
@@ -108,7 +99,7 @@ The dashboard was designed following modern Microsoft dashboard design principle
 - Balanced chart spacing
 - Interactive filtering
 - Business-focused dashboard design
-- Optimized layout for Excel 2013
+- Optimized layout for Excel 365
 - Clean visual hierarchy
 - Improved dashboard readability
 
@@ -116,7 +107,7 @@ The dashboard was designed following modern Microsoft dashboard design principle
 
 # 🛠️ Tools & Technologies
 
-- Microsoft Excel 2013
+- Microsoft Excel 365
 - Pivot Tables
 - Pivot Charts
 - Slicers
@@ -235,8 +226,9 @@ Customer-Analytics-Dashboard
 
 1. Download or clone this repository.
 2. Open **Customer_Analytics_Dashboard.xlsx** using Microsoft Excel.
-3. Use the interactive slicers to filter the dashboard.
-4. Explore the charts and KPI cards to gain business insights.
+3. Use the interactive slicers to explore different customer segments.
+4. Analyze the KPI cards and charts to gain business insights.
+5. View **Customer_Analytics_Dashboard.png** for a quick dashboard preview.
 
 ---
 
