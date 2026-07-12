@@ -2,13 +2,14 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-Used-blue)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Interactive-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # 📊 Customer Analytics Dashboard
 
 <p align="center">
   <img src="Customer_Analytics_Dashboard.png" alt="Customer Analytics Dashboard" width="100%">
 </p>
 
-An interactive **Business Intelligence Dashboard** built using **Microsoft Excel 365** to analyze customer demographics, financial performance, and regional distribution. The dashboard leverages **Pivot Tables**, **Pivot Charts**, **Slicers**, and **advanced Excel formulas** to transform raw customer data into meaningful business insights through an intuitive and professional dashboard interface.
+An interactive **Business Intelligence Dashboard** built using **Microsoft Excel 365** to analyze customer demographics, financial performance, and regional distribution. The dashboard leverages **Power Query**, **Pivot Tables**, **Pivot Charts**, **Slicers**, and **advanced Excel formulas** to transform raw customer data into meaningful business insights through an intuitive and professional dashboard interface.
 
 ---
 
