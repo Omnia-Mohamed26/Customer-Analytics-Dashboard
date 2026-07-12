@@ -1,8 +1,7 @@
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-365-217346?logo=microsoftexcel&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Interactive-blue)
-![Pivot Charts](https://img.shields.io/badge/Pivot%20Charts-Interactive-orange)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-365-217346?logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-Used-blue)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Interactive-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-
 # 📊 Customer Analytics Dashboard
 
 <p align="center">
