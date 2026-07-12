@@ -38,7 +38,7 @@ An interactive **Business Intelligence Dashboard** built using **Microsoft Excel
 
 This project demonstrates how **Microsoft Excel** can be used as a powerful **Business Intelligence** tool to build an interactive dashboard for customer analytics.
 
-The dashboard transforms raw customer data into valuable business insights using **Pivot Tables**, **Pivot Charts**, **Slicers**, **Excel formulas**, and KPI Cards while following a clean Microsoft-inspired dashboard design.
+The dashboard transforms raw customer data into valuable business insights using **Power Query**, **Pivot Tables**, **Pivot Charts**, **Slicers**, **Excel formulas**, and KPI Cards while following a clean Microsoft-inspired dashboard design.
 
 ---
 
