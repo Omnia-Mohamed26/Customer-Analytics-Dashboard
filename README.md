@@ -104,6 +104,7 @@ The dashboard follows modern Microsoft dashboard design principles to provide a 
 # 🛠️ Tools & Technologies
 
 - Microsoft Excel 365
+- Power Query
 - Pivot Tables
 - Pivot Charts
 - Slicers
@@ -136,6 +137,7 @@ The dashboard is built using a customer dataset containing:
 - Executive KPI Cards
 - Interactive Dashboard
 - Interactive Slicers
+- Power Query Data Transformation
 - Pivot Tables
 - Pivot Charts
 - Customer Segmentation
@@ -174,10 +176,12 @@ The dashboard is built using a customer dataset containing:
 # 💼 Skills Demonstrated
 
 - Microsoft Excel Dashboard Development
+- Power Query Data Transformation
 - Business Intelligence Reporting
 - Dashboard Design
 - KPI Development
 - Data Cleaning
+- Data Transformation
 - Data Analysis
 - Data Visualization
 - Pivot Tables
